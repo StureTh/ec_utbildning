@@ -4,3 +4,6 @@ c:\users\sture\documents\visual studio 2015\Projects\Övning11\Övning11\bin\Deb
 c:\users\sture\documents\visual studio 2015\Projects\Övning11\Övning11\obj\Debug\Övning11.csprojResolveAssemblyReference.cache
 c:\users\sture\documents\visual studio 2015\Projects\Övning11\Övning11\obj\Debug\Övning11.exe
 c:\users\sture\documents\visual studio 2015\Projects\Övning11\Övning11\obj\Debug\Övning11.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning11\Övning11\bin\Debug\Övning11.exe.config
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning11\Övning11\obj\Debug\Övning11.exe
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning11\Övning11\obj\Debug\Övning11.pdb
