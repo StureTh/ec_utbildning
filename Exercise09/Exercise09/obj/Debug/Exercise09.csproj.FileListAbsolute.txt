@@ -1,0 +1,6 @@
+c:\users\sture\documents\visual studio 2015\Projects\Exercise09\Exercise09\bin\Debug\Exercise09.exe.config
+C:\Users\Sture\Documents\Visual Studio 2015\Projects\Exercise09\Exercise09\bin\Debug\Exercise09.exe
+C:\Users\Sture\Documents\Visual Studio 2015\Projects\Exercise09\Exercise09\bin\Debug\Exercise09.pdb
+C:\Users\Sture\Documents\Visual Studio 2015\Projects\Exercise09\Exercise09\obj\Debug\Exercise09.exe
+C:\Users\Sture\Documents\Visual Studio 2015\Projects\Exercise09\Exercise09\obj\Debug\Exercise09.pdb
+C:\Users\Sture\Documents\Visual Studio 2015\Projects\Exercise09\Exercise09\obj\Debug\Exercise09.csprojResolveAssemblyReference.cache
