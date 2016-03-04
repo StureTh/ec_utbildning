@@ -4,3 +4,9 @@ c:\users\sture\documents\visual studio 2015\Projects\Övning10\Övning10\bin\Deb
 c:\users\sture\documents\visual studio 2015\Projects\Övning10\Övning10\obj\Debug\Övning10.csprojResolveAssemblyReference.cache
 c:\users\sture\documents\visual studio 2015\Projects\Övning10\Övning10\obj\Debug\Övning10.exe
 c:\users\sture\documents\visual studio 2015\Projects\Övning10\Övning10\obj\Debug\Övning10.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning10\Övning10\bin\Debug\Övning10.exe.config
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning10\Övning10\obj\Debug\Övning10.exe
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning10\Övning10\obj\Debug\Övning10.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning10\Övning10\bin\Debug\Övning10.exe
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning10\Övning10\bin\Debug\Övning10.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Övning10\Övning10\obj\Debug\Övning10.csprojResolveAssemblyReference.cache

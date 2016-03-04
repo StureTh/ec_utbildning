@@ -4,3 +4,9 @@ c:\users\sture\documents\visual studio 2015\Projects\Uppgift13\Uppgift13\bin\Deb
 c:\users\sture\documents\visual studio 2015\Projects\Uppgift13\Uppgift13\obj\Debug\Uppgift13.csprojResolveAssemblyReference.cache
 c:\users\sture\documents\visual studio 2015\Projects\Uppgift13\Uppgift13\obj\Debug\Uppgift13.exe
 c:\users\sture\documents\visual studio 2015\Projects\Uppgift13\Uppgift13\obj\Debug\Uppgift13.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Uppgift13\Uppgift13\bin\Debug\Uppgift13.exe.config
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Uppgift13\Uppgift13\obj\Debug\Uppgift13.exe
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Uppgift13\Uppgift13\obj\Debug\Uppgift13.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Uppgift13\Uppgift13\bin\Debug\Uppgift13.exe
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Uppgift13\Uppgift13\bin\Debug\Uppgift13.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\ec_utbildning\Uppgift13\Uppgift13\obj\Debug\Uppgift13.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\sture\documents\visual studio 2015\Projects\Exercise03B\Exercise03B\bin\Debug\Exercise03B.exe.config
+c:\users\sture\documents\visual studio 2015\Projects\Exercise03B\Exercise03B\bin\Debug\Exercise03B.exe
+c:\users\sture\documents\visual studio 2015\Projects\Exercise03B\Exercise03B\bin\Debug\Exercise03B.pdb
+c:\users\sture\documents\visual studio 2015\Projects\Exercise03B\Exercise03B\obj\Debug\Exercise03B.csprojResolveAssemblyReference.cache
+c:\users\sture\documents\visual studio 2015\Projects\Exercise03B\Exercise03B\obj\Debug\Exercise03B.exe
+c:\users\sture\documents\visual studio 2015\Projects\Exercise03B\Exercise03B\obj\Debug\Exercise03B.pdb
