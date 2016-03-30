@@ -1,0 +1,6 @@
+c:\users\sture\documents\visual studio 2015\Projects\MediaLib\MediaLib\bin\Debug\MediaLib.exe.config
+c:\users\sture\documents\visual studio 2015\Projects\MediaLib\MediaLib\bin\Debug\MediaLib.exe
+c:\users\sture\documents\visual studio 2015\Projects\MediaLib\MediaLib\bin\Debug\MediaLib.pdb
+c:\users\sture\documents\visual studio 2015\Projects\MediaLib\MediaLib\obj\Debug\MediaLib.csprojResolveAssemblyReference.cache
+c:\users\sture\documents\visual studio 2015\Projects\MediaLib\MediaLib\obj\Debug\MediaLib.exe
+c:\users\sture\documents\visual studio 2015\Projects\MediaLib\MediaLib\obj\Debug\MediaLib.pdb
