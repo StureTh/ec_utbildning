@@ -12,11 +12,7 @@ namespace AtmV1
 
 
 
-        public int Balance
-        {
-            get { return balance; }
-            set { balance = value; }
-        }
+      
 
         public void WithDraw(int amount)
         {
