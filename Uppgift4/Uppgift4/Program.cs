@@ -10,54 +10,64 @@ namespace Uppgift4
     {
         static void Main(string[] args)
         {
-            // While version
-            //int number;
-            //int result = 0;
-            //int i = 0;
-            //Console.WriteLine("Type any number");
-            //number=Int32.Parse(Console.ReadLine());
-            //while (i < number)
-            //{
-            //    i++;
-            //    result = result + i;
-            //    Console.Write("{0}",i+ "+");
+            bool run = true;
+            var account = new Account();
 
-
-            //}
-            //Console.WriteLine(result);
-            //Console.ReadKey(); 
-
-            // Do While version
-            int number;
-            int result = 0;
-            int i = 0;
-            bool success = true;
-            do
+            while (run)
             {
+                // Print main menu
+                Console.Clear();
+                Console.WriteLine("Select an option");
+                Console.WriteLine("----------------");
+                Console.WriteLine();
+                Console.WriteLine("a) Withdraw from account");
+                Console.WriteLine("b) Deposit to account");
+                Console.WriteLine("c) Check balance");
+                Console.WriteLine("d) Exit");
+                Console.WriteLine();
 
+                // Collect user input
+                Console.Write("> ");
+                var input = Console.ReadLine();
 
-                Console.WriteLine("Type any number");
-                while (!int.TryParse(Console.ReadLine(), out number))
-                    Console.WriteLine("not a valid number");
-                if (number <0)
+                switch (input)
                 {
-                    Console.WriteLine("Number need to be positive");
+                    case "a": // The user selected "Withdraw from account"
+                        Console.WriteLine("Enter amount: ");
+                        var amount = int.Parse(Console.ReadLine());
+
+                        if (account.GetBalance() >= amount)
+                        {
+                            Console.WriteLine("Withdrawing {0} SEK from account", amount);
+                            account.Withdraw(amount);
+                        }
+                        else
+                        {
+                            Console.WriteLine("You don't have {0} SEK to withdraw", amount);
+                        }
+
+                        break;
+
+                    case "b":
+                        Console.WriteLine("Enter amount: ");
+                        amount = int.Parse(Console.ReadLine());
+
+                        account.Deposit(amount);
+                        Console.WriteLine("Depositing {0} SEK to account", amount);
+                        break;
+
+                    case "c":
+                        Console.WriteLine("You have {0} SEK on your account", account.GetBalance());
+                        break;
+
+                    case "d":
+                        run = false;
+                        Console.WriteLine("Bye!");
+                        break;
                 }
-                else
-                {
-                    success = false;
-                }
-            } while (success);
-            
-             
-            do
-            {
-                i++;
-                result = result + i;
-                Console.Write("{0}",i+"+");
-            } while (i<number);
-            Console.WriteLine(result);
-            Console.ReadKey();
+
+                Console.ReadKey();
+            }
         }
     }
 }

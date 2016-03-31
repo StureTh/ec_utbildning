@@ -4,21 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtmV1
+namespace Uppgift4
 {
     class Account
     {
         private int balance = 0;
 
-
-
-        public int Balance
-        {
-            get { return balance; }
-            set { balance = value; }
-        }
-
-        public void WithDraw(int amount)
+        public void Withdraw(int amount)
         {
             balance = balance - amount;
         }

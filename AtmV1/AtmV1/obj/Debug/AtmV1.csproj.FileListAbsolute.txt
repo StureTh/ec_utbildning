@@ -4,3 +4,9 @@ c:\users\sture\documents\visual studio 2015\Projects\AtmV1\AtmV1\bin\Debug\AtmV1
 c:\users\sture\documents\visual studio 2015\Projects\AtmV1\AtmV1\bin\Debug\AtmV1.pdb
 c:\users\sture\documents\visual studio 2015\Projects\AtmV1\AtmV1\obj\Debug\AtmV1.exe
 c:\users\sture\documents\visual studio 2015\Projects\AtmV1\AtmV1\obj\Debug\AtmV1.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\AtmV1\AtmV1\bin\Debug\AtmV1.exe.config
+C:\Users\Sture\Documents\GitHub\Exercises\AtmV1\AtmV1\obj\Debug\AtmV1.exe
+C:\Users\Sture\Documents\GitHub\Exercises\AtmV1\AtmV1\obj\Debug\AtmV1.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\AtmV1\AtmV1\bin\Debug\AtmV1.exe
+C:\Users\Sture\Documents\GitHub\Exercises\AtmV1\AtmV1\bin\Debug\AtmV1.pdb
+C:\Users\Sture\Documents\GitHub\Exercises\AtmV1\AtmV1\obj\Debug\AtmV1.csprojResolveAssemblyReference.cache
